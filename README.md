@@ -1,2 +1,1 @@
-# wechat-service
-这是一个微信服务的项目
+这是一个授权后的微信function
